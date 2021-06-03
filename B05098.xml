@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for continuing the duty of eight pence upon each one hundred and twenty pounds weight of rock-salt, without allowing a draw-back upon refining the same; by comparing the brine-salt made at Northwitche in Cheshire, with the salt-rock refined at the dungeon near Leverpoole in Lancashire.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05098</idno><idno type="EEBO-CITATION">51617789</idno>
+  <idno type="VID">175331</idno>
+  <idno type="EEBO-PROQUEST">2248532180</idno>
+  
+            <idno type="STC">Wing R488</idno>
+            <idno type="STC">ESTC R217475</idno>
+            <idno type="OCLC">51617789</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175331)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2730:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for continuing the duty of eight pence upon each one hundred and twenty pounds weight of rock-salt, without allowing a draw-back upon refining the same; by comparing the brine-salt made at Northwitche in Cheshire, with the salt-rock refined at the dungeon near Leverpoole in Lancashire.</title>
+               </titleStmt>
+               <extent>1 p. l., 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of the original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Salt --  Taxation --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Rock-salt --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:175331:1"/>
+            <pb facs="tcp:175331:2"/>
+            <pb facs="tcp:175331:2"/>
+            <pb facs="tcp:175331:3"/>
+            <pb facs="tcp:175331:3"/>
+            <pb facs="tcp:175331:4"/>
+            <pb facs="tcp:175331:4"/>
+            <p>REASONS For Continuing the <hi>Duty of Eight Pence</hi> UPON ROCK-SALT.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:175331:5"/>
+            <pb facs="tcp:175331:5"/>
+            <p>REASONS For Continuing the <hi>Duty of Eight Pence</hi> Upon Each One hundred and twenty Pounds weight of <hi>Rock-Salt,</hi> without allowing a Draw-back upon Refining the same;</p>
+            <p>BY Comparing the <hi>Brine-salt</hi> made at <hi>Northwitche</hi> in <hi>Cheshire,</hi> with the <hi>Salt-Rock</hi> Refined at the <hi>Dungeon</hi> near <hi>Le<g ref="char:EOLhyphen"/>verpoole</hi> in <hi>Lancashire.</hi>
+            </p>
+            <figure>
+               <figDesc>birds</figDesc>
+            </figure>
+            <p>Printed in the Year 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175331:6"/>
+            <pb n="3" facs="tcp:175331:6"/>
+            <head>REASONS FOR <hi>Continuing the Duty of Eight Pence upon each One hun<g ref="char:EOLhyphen"/>dred and twenty Pounds weight of Rock-salt, with<g ref="char:EOLhyphen"/>out allowing a Draw-back upon Refining the same,</hi> &amp;c.</head>
+            <p>IT is well known that a Tun of Coals makes a Tun of Salt; and a Tun of Coals at <hi>Northwitche</hi> is Sixteen shillings eight pence, but a Tun of Coals at the <hi>Dun<g ref="char:EOLhyphen"/>geon</hi> is only Five shillings six pence, which is Eleven shillings two pence difference.</p>
+            <pb n="4" facs="tcp:175331:7"/>
+            <p>A Bushel of Salt Rock of One hundred and twenty Pounds weight will, with the Sea Tide Water at the said <hi>Dungeon,</hi> produce Two Bushels and an half of Salt at Fifty six Pounds weight to each Bushel; so that Fifteen Bushels of Rock of One hundred and twenty Pounds each, will produce at the said <hi>Dungeon,</hi> One Tun (reckoned at Twenty one hundred weight) of Salt.</p>
+            <p>Now the Duty of Eight pence for each Bushel of One hundred and twenty Pounds weight of Rock for the said Fifteen Bushels, comes to Ten shillings; but then 'tis to be observed, that the Refiner of the Rock at the said <hi>Dungeon</hi> makes his Tun of Salt with a Tun of Coals, which lie him in only Five shillings six pence.</p>
+            <p>Whereas at <hi>Northwitche</hi> a Tun of Brine Salt is made with a Tun of Coals, which lie in Sixteen shillings eight pence; which, as is a<g ref="char:EOLhyphen"/>foresaid, is Eleven shillings two pence diffe<g ref="char:EOLhyphen"/>rence.</p>
+            <p>So that the Refiner of the Rock, though he pay Ten shillings <hi>per</hi> Tun (<hi>viz.</hi> for Fifteen Bushels of Rock, which produce a Tun of Salt) Duty not drawn back, yet he still has the Advantage over the Brine-salt of One
+<pb n="5" facs="tcp:175331:7"/>shilling two pence <hi>per</hi> Tun; And besides, he fells One penny <hi>per</hi> Bushel dearer than the Brine-salt, (being situated more conveniently for the Merchant) which is about Three shillings and a penny <hi>per</hi> Tun more, which added to the aforesaid One shilling and two pence <hi>per</hi> Tun, makes the Refiner of the Rock to have the Advantage over the Brine-Salt Four shillings and three pence <hi>per</hi> Tun, tho' the Eight pence upon each One hundred and twenty Pounds Weight of Rock is continued.</p>
+            <p>
+               <label>Objection.</label>
+               <hi>But the Refiner of the Rock pays at the Pit Five shillings and six pence</hi> per <hi>Tun for the Rock, whereas the Brine comes up with a small Charge of winding.</hi>
+            </p>
+            <p>
+               <label>Answer.</label> 'Tis true, the Refiner pays Five shillings and six pence <hi>per</hi> Tun for the Rock, but that is Two thousand four hundred Weight, which produces Two thousand eight hundred Weight of Salt dissolved in Sea-tide Water; But the Proprietor of the Brine is at a greater
+<pb n="6" facs="tcp:175331:8"/>Charge <hi>per</hi> Tun for his Brine, for the first sinking and finishing of his Pit costs him One thousand or Twelve hundred Pounds Serling, sometimes more, and oftentimes a Fresh breaks in and puts him to a constant and a very great Annual Charge, so that he pays dearer for the Brine than the Refiner does for the Rock.</p>
+            <p>
+               <label>Objection.</label>
+               <hi>The Refiner pays for Land-Carriage and Freight of the Rock, Nine shillings and ten pence</hi> per <hi>Tun from</hi> Northwitche <hi>to the Dungeon.</hi>
+            </p>
+            <p>
+               <label>Answer.</label> The Maker of Brine-Salt pays more in that way, then the Refiner of the Rock, for a Tun of Brine-Salt is more bulky then a Tun of Rock, and consequently the Carriage of it is dearer; but it must be observed that Two thousand four hundred Weight of Rock will (with Sea Water) produce Two thou<g ref="char:EOLhyphen"/>sand eight hundred Weight of Salt, so the Refiner gains the Carriage clear of Four hun<g ref="char:EOLhyphen"/>dred Weight in each Two thousand four hundred, which the Maker of Brine-Salt
+<pb n="7" facs="tcp:175331:8"/>pays for; And it must also be considered, that the Land-Carriage of Brine-Salt is more ha<g ref="char:EOLhyphen"/>zardous then the Rock, for the Brine-Salt is often by falls of the Horse, and overturns of the Carts, thrown in the Water and Dirt, and thereby rendred totally unsaleable, which is a great Loss to the Proprietor, he paying the Duty, and not having any Provision in the Act of Parliament for such Hazards, which the Salt-Rock is no way liable unto.</p>
+            <p>And besides all this, it is to be considered, that the Duty of Eight pence upon each One hundred and twenty Pounds Weight of Rock-Salt is made a Fund and a security for Money already lent to the Government, and if it should be taken off to Gratify and Enrich a few Projectors, and to the Ruin and Destru<g ref="char:EOLhyphen"/>ction of the Ancient and Durable Trade of Brine-Salt, it must fall upon the Lands of <hi>England,</hi> or the produce of Land (which is all one) to make it good.</p>
+            <p>But if it be well considered of what dange<g ref="char:EOLhyphen"/>rous consequence the getting of the Salt-Rock in <hi>Cheshire</hi> will be, to that and all the Neigh<g ref="char:EOLhyphen"/>bouring Countrys of <hi>England,</hi> and <hi>North-Wales,</hi> instead of keeping the Ballance even betwixt the Refiners of Salt-Rock, and the Makers of
+<pb n="8" facs="tcp:175331:9"/>Brine-Salt; (which nothing less then the con<g ref="char:EOLhyphen"/>tinuing Eight pence upon the Rock can do) it may, perhaps, be thought most beneficial for the Publick to prohibit the getting of the said Salt-Rock, and that for these Reasons.</p>
+            <list>
+               <item>
+                  <label>I.</label> The Salt-Rock does make the Spring in the Caverns of the Earth so effectually Brackish, as they become extream salt, which boils in<g ref="char:EOLhyphen"/>to the best Natural Salt as can be made use of, as daily experience makes manifest, and which will in a plentiful manner, serve all the uses proper for Salt in <hi>England, Ireland,</hi> and the <hi>West-Indies, &amp;c.</hi> as the Merchants have expe<g ref="char:EOLhyphen"/>rienced.</item>
+               <item>
+                  <label>II.</label> The Duty of Salt being made perpetual, it is humbly presumed it will become the Wis<g ref="char:EOLhyphen"/>dom of Parliament to take effectual Care, that that Salt which will be perpetual, be preserv<g ref="char:EOLhyphen"/>ed and encouraged to Answer that perpetual Duty.</item>
+               <pb n="9" facs="tcp:175331:9"/>
+               <item>
+                  <label>III.</label> The said Springs will be perpetually Salt so long as the Salt-Rock is not taken away, but that being the efficient Cause of their saltness, if it is taken away the Springs will cease to be Salt, and then <hi>England</hi> must be beholden to Foreign Parts for that necessary Commodity which they are now able to furnish all <hi>Europe</hi> with.</item>
+            </list>
+            <p>
+               <label>Objection.</label>
+               <hi>But the Salt-Rock is of a very great Substance, and may last some Ages before it is exhausted.</hi>
+            </p>
+            <p>
+               <label>Answer.</label> The Salt-Rock in one place lies somthing deep, but in no place broad, and is but of a Narrow extent, for several have boared very deep in their Lands, lying near where the Salt-Rock is now gotten, and could not find it.</p>
+            <p>But experience shews that the Salt-Rock Pits do frequently fall in, and indeed it is im<g ref="char:EOLhyphen"/>possible
+<pb n="10" facs="tcp:175331:10"/>they should stand long, for the Mi<g ref="char:EOLhyphen"/>neral is of that Nature, that it melts and wa<g ref="char:EOLhyphen"/>steth either by Air or Water. Now all these Salt-Rock Pits are much annoyed with Wa<g ref="char:EOLhyphen"/>ter, and the Pillars of this Salt-Rock which are left to support the Roof of the Hollows, are by the Air, and the Water, so melted and wasted away, that several of the Pits are fal<g ref="char:EOLhyphen"/>len in and lost, and it is much feared that a River near the Salt-Rock Pits will be by these means let into the said Hollows, which will endanger the loss of the Brine-Springs, by making them so Fresh that they will not Boyl to Salt.</p>
+            <p>
+               <label>Objection.</label>
+               <hi>Every Freeholder is Lord and Master of his own Freehold, and may dig in and dispose of it to his best Advantage.</hi>
+            </p>
+            <p>
+               <label>Answer.</label> This is not so where the Publick good of the Nation is concern'd, for though there are good Coals under <hi>Black-Heath,</hi> yet it is look<g ref="char:EOLhyphen"/>ed upon that the Lords of the Soil there may
+<pb n="11" facs="tcp:175331:10"/>not dig them, because it would discourage Navigation and the Nursery of Seamen.</p>
+            <p>And though divers Lands in <hi>England</hi> are very proper and fit for yielding Tobacco, yet the Wisdom of our Ancestors has been such, as by Law to Prohibit the Planting of it in <hi>England,</hi> because it would discourage Naviga<g ref="char:EOLhyphen"/>tion and our Foreign Plantations.</p>
+            <p>
+               <label>Objection.</label>
+               <hi>But is it not hard, that a Man should have Salt-Rock in his Land which makes Salt-Springs for others, and not be allowed to reap any benefit from it himself.</hi>
+            </p>
+            <p>
+               <label>Answer.</label> Every Proprietor of Salt-Rock may without digging it, reap a much greater Benefit from it then any Gentleman does from the Salt or Brine-Springs; for whereas a Brine-Pit cannot be made under One thousand, and sometimes Twelve hundred Pounds or more, and often<g ref="char:EOLhyphen"/>times a Fresh breaks in, and then all must be wrought a-new; He who has the Salt-Rock needs do no more then sink a small Pit into
+<pb n="12" facs="tcp:175331:11"/>the said Rock, which he may do for about Thirty or Forty Pounds <hi>Sterl.</hi> and there he has a much stronger Brine than any other Salt Spring is, which he may with less Charge of Coal Boil up to an excellent Salt.</p>
+            <p>
+               <label>Objection.</label>
+               <hi>But several Persons who have great Plenty of Coals in divers Places have there erected Works for Refining this Salt Rock, and more Works will daily be erected for that purpose, and the Country is and will be better supplied with Salt thence than from the Brine-Pits.</hi>
+            </p>
+            <p>
+               <label>Answer.</label> This Salt Rock will have an end, and how soon is uncertain, and then there will be an end not only of these Refining Works, but of the Brine-Springs also: Moreover, the clearest and purest Parts of this Salt-Rock are cull'd out of the Refiners great Parcels grinded to Powder and used in <hi>Specie,</hi> and by this means pays no Duty, because the Re<g ref="char:EOLhyphen"/>finer's Clerk makes a general Affidavit, that all within his Cocket is Refin'd: But it must
+<pb n="13" facs="tcp:175331:11"/>be observed, that the Multiplicity of these Refining Works will be a very great loss and diminution to the Revenue, because of the Multiplicity of Officers which must be Esta<g ref="char:EOLhyphen"/>blished with great Salaries to inspect them; and whether it is from the many Refining Salt-Works already set on foot, and the many Frauds committed by them, (the Rock-salt Store-house, the Refining Houses, and the Ships or Boats being planted so near each other, and in such a manner, that 'tis not pos<g ref="char:EOLhyphen"/>sible for the Officer to detect these Frauds) or from what other cause it is, may be worth enquiring; but plain it is, that since the Rock<g ref="char:EOLhyphen"/>salt Trade has increased, the Duty upon Salt in general has decreased a very considerable Sum yearly; and if permitted 'twill occasion a further decrease of that Duty, and then a further Aid may be expected to make good that Deficiency. All which is humbly sub<g ref="char:EOLhyphen"/>mitted to Consideration.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175331:12"/>
+            <pb facs="tcp:175331:12"/>
+            <pb facs="tcp:175331:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
